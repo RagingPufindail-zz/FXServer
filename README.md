@@ -1,2 +1,2 @@
 # FXServer
-Fivem Servre Files.
+Fivem Server Files.
