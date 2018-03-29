@@ -1,0 +1,130 @@
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[        94] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[       125] Found new resource fivem in B:/FXServer/resources//fivem
+[       140] Found new resource fivem-awesome1501 in B:/FXServer/resources//fivem-awesome1501
+[       156] Found new resource fivem-map-hipster in B:/FXServer/resources//fivem-map-hipster
+[       156] Found new resource fivem-map-skater in B:/FXServer/resources//fivem-map-skater
+[       172] Found new resource runcode in B:/FXServer/resources//runcode
+[       187] Found new resource race in B:/FXServer/resources//[gamemodes]/race
+[       203] Found new resource race-test in B:/FXServer/resources//[gamemodes]/race-test
+[       219] Found new resource channelfeed in B:/FXServer/resources//[gameplay]/channelfeed
+[       219] Found new resource irc in B:/FXServer/resources//[gameplay]/irc
+[       234] Found new resource obituary in B:/FXServer/resources//[gameplay]/obituary
+[       250] Found new resource obituary-deaths in B:/FXServer/resources//[gameplay]/obituary-deaths
+[       265] Found new resource playernames in B:/FXServer/resources//[gameplay]/playernames
+[       281] Found new resource mapmanager in B:/FXServer/resources//[managers]/mapmanager
+[       297] Found new resource baseevents in B:/FXServer/resources//[system]/baseevents
+[       312] Found new resource chat in B:/FXServer/resources//[system]/chat
+[       312] Found new resource hardcap in B:/FXServer/resources//[system]/hardcap
+[       328] Found new resource rconlog in B:/FXServer/resources//[system]/rconlog
+[       344] Found new resource scoreboard in B:/FXServer/resources//[system]/scoreboard
+[       359] Found new resource sessionmanager in B:/FXServer/resources//[system]/sessionmanager
+[       375] Found new resource spawnmanager in B:/FXServer/resources//[system]/spawnmanager
+[       390] Found new resource betaguns in B:/FXServer/resources//[test]/betaguns
+[       406] Found new resource gameInit in B:/FXServer/resources//[test]/gameInit
+[       422] Found new resource keks in B:/FXServer/resources//[test]/keks
+[       469] Started resource sessionmanager
+[      2219] Started resource mapmanager
+[      2265] Started resource chat
+[      2297] Started resource spawnmanager
+[      2312] Started gametype Freeroam
+[      2328] Started resource fivem
+[      2359] Started resource hardcap
+[      2390] Started resource rconlog
+[      2422] Started resource scoreboard
+[      2469] Started resource playernames
+[      2469] Authenticating server license key...
+[      3140] Server license key authentication succeeded. Welcome!
+[      3203] Sending heartbeat to live-internal.fivem.net:30110
+[      3234] Started map fivem-map-hipster
+[      3234] Started resource fivem-map-hipster
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[        62] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        93] Found new resource fivem in B:/FXServer/resources//fivem
+[       109] Found new resource fivem-awesome1501 in B:/FXServer/resources//fivem-awesome1501
+[       109] Found new resource fivem-map-hipster in B:/FXServer/resources//fivem-map-hipster
+[       125] Found new resource fivem-map-skater in B:/FXServer/resources//fivem-map-skater
+[       125] Found new resource runcode in B:/FXServer/resources//runcode
+[       140] Found new resource race in B:/FXServer/resources//[gamemodes]/race
+[       156] Found new resource race-test in B:/FXServer/resources//[gamemodes]/race-test
+[       156] Found new resource channelfeed in B:/FXServer/resources//[gameplay]/channelfeed
+[       172] Found new resource irc in B:/FXServer/resources//[gameplay]/irc
+[       187] Found new resource obituary in B:/FXServer/resources//[gameplay]/obituary
+[       203] Found new resource obituary-deaths in B:/FXServer/resources//[gameplay]/obituary-deaths
+[       203] Found new resource playernames in B:/FXServer/resources//[gameplay]/playernames
+[       218] Found new resource mapmanager in B:/FXServer/resources//[managers]/mapmanager
+[       234] Found new resource baseevents in B:/FXServer/resources//[system]/baseevents
+[       234] Found new resource chat in B:/FXServer/resources//[system]/chat
+[       250] Found new resource hardcap in B:/FXServer/resources//[system]/hardcap
+[       265] Found new resource rconlog in B:/FXServer/resources//[system]/rconlog
+[       265] Found new resource scoreboard in B:/FXServer/resources//[system]/scoreboard
+[       281] Found new resource sessionmanager in B:/FXServer/resources//[system]/sessionmanager
+[       297] Found new resource spawnmanager in B:/FXServer/resources//[system]/spawnmanager
+[       297] Found new resource betaguns in B:/FXServer/resources//[test]/betaguns
+[       312] Found new resource gameInit in B:/FXServer/resources//[test]/gameInit
+[       312] Found new resource keks in B:/FXServer/resources//[test]/keks
+[       390] Started resource sessionmanager
+[       422] Started resource mapmanager
+[       437] Started resource chat
+[       453] Started resource spawnmanager
+[       453] Started gametype Freeroam
+[       468] Started resource fivem
+[       484] Started resource hardcap
+[       500] Started resource rconlog
+[       515] Started resource scoreboard
+[       531] Started resource playernames
+[       531] Authenticating server license key...
+[      1297] Server license key authentication succeeded. Welcome!
+[      1359] Sending heartbeat to live-internal.fivem.net:30110
+[      1375] Started map fivem-map-hipster
+[      1390] Started resource fivem-map-hipster
+[         0] Initializing Mono
+[        15] Initializing Mono completed
+[        31] Hello!
+[        46] Resolved live-internal.fivem.net:30110 to 62.210.162.18:30110
+[        78] Found new resource fivem in B:/FXServer/resources//fivem
+[        93] Found new resource fivem-awesome1501 in B:/FXServer/resources//fivem-awesome1501
+[        93] Found new resource fivem-map-hipster in B:/FXServer/resources//fivem-map-hipster
+[        93] Found new resource fivem-map-skater in B:/FXServer/resources//fivem-map-skater
+[       109] Found new resource runcode in B:/FXServer/resources//runcode
+[       109] Found new resource race in B:/FXServer/resources//[gamemodes]/race
+[       109] Found new resource race-test in B:/FXServer/resources//[gamemodes]/race-test
+[       125] Found new resource channelfeed in B:/FXServer/resources//[gameplay]/channelfeed
+[       125] Found new resource irc in B:/FXServer/resources//[gameplay]/irc
+[       140] Found new resource obituary in B:/FXServer/resources//[gameplay]/obituary
+[       140] Found new resource obituary-deaths in B:/FXServer/resources//[gameplay]/obituary-deaths
+[       140] Found new resource playernames in B:/FXServer/resources//[gameplay]/playernames
+[       156] Found new resource mapmanager in B:/FXServer/resources//[managers]/mapmanager
+[       156] Found new resource baseevents in B:/FXServer/resources//[system]/baseevents
+[       156] Found new resource chat in B:/FXServer/resources//[system]/chat
+[       171] Found new resource hardcap in B:/FXServer/resources//[system]/hardcap
+[       171] Found new resource rconlog in B:/FXServer/resources//[system]/rconlog
+[       171] Found new resource scoreboard in B:/FXServer/resources//[system]/scoreboard
+[       187] Found new resource sessionmanager in B:/FXServer/resources//[system]/sessionmanager
+[       187] Found new resource spawnmanager in B:/FXServer/resources//[system]/spawnmanager
+[       203] Found new resource betaguns in B:/FXServer/resources//[test]/betaguns
+[       203] Found new resource gameInit in B:/FXServer/resources//[test]/gameInit
+[       218] Found new resource keks in B:/FXServer/resources//[test]/keks
+[       265] Started resource sessionmanager
+[       296] Started resource mapmanager
+[       312] Started resource chat
+[       328] Started resource spawnmanager
+[       343] Started gametype Freeroam
+[       359] Started resource fivem
+[       375] Started resource hardcap
+[       390] Started resource rconlog
+[       406] Started resource scoreboard
+[       437] Started resource playernames
+[       437] Authenticating server license key...
+[      1078] Server license key authentication succeeded. Welcome!
+[      1140] Sending heartbeat to live-internal.fivem.net:30110
+[      1171] Started map fivem-map-skater
+[      1187] Started resource fivem-map-skater
+[    127937] Connecting: RagingPufindail
+[    129500] Sending heartbeat to live-internal.fivem.net:30110
+[    309562] Sending heartbeat to live-internal.fivem.net:30110
+[    333218] Sending heartbeat to live-internal.fivem.net:30110
